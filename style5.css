@@ -39,7 +39,7 @@
         color: transparent;
         text-align: center;
         -webkit-text-stroke:1px #4b1c71;
-        background:url(l8.jpg) ;
+        background:url('waves.jpg') ;
         -webkit-background-clip: text;
         background-position: 0 0;
         animation: 15ms;
@@ -54,7 +54,7 @@
         text-align: center;
         color: transparent;
         -webkit-text-stroke:1px #4b1c71;
-        background:url(l8.jpg) ;
+        background:url('waves.jpg') ;
         -webkit-background-clip: text;
         background-position: 0 0;
         animation: 15ms;
@@ -69,7 +69,7 @@
     text-align: center;
     color: transparent;
     -webkit-text-stroke:1px #4b1c71;
-    background:url(l8.jpg) ;
+    background:url('waves.jpg') ;
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: 15ms;
@@ -90,7 +90,7 @@
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: transparent;
         -webkit-text-stroke: 1px #4b1c71;
-        background: url(l8.jpg);
+        background: url('waves.jpg');
         -webkit-background-clip: text;
         background-position: 0 0;
         animation: back 20s linear infinite;
@@ -107,7 +107,7 @@
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: transparent;
         -webkit-text-stroke: 1px #4b1c71;
-        background: url(l8.jpg);
+        background: url('waves.jpg');
         -webkit-background-clip: text;
         background-position: 0 0;
         animation: back 20s linear infinite;
@@ -124,7 +124,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: transparent;
     -webkit-text-stroke: 1px #4b1c71;
-    background: url(l8.jpg);
+    background: url('waves.jpg');
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
